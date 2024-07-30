@@ -1,0 +1,448 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "H İskele",
+      "quantityPerUnit": "10 adet",
+      "unitPrice": "120",
+      "unitsInStock": 50
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Kanto",
+      "quantityPerUnit": "15 adet",
+      "unitPrice": "80",
+      "unitsInStock": 30
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Plywood",
+      "quantityPerUnit": "20 m2",
+      "unitPrice": "200",
+      "unitsInStock": 40
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Beton Kalıbı",
+      "quantityPerUnit": "10 adet",
+      "unitPrice": "150",
+      "unitsInStock": 60
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "Dikey Kalıp",
+      "quantityPerUnit": "5 adet",
+      "unitPrice": "300",
+      "unitsInStock": 20
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "productName": "Kalıp Tahtası",
+      "quantityPerUnit": "100 adet",
+      "unitPrice": "500",
+      "unitsInStock": 10
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "productName": "Kalıp Direği",
+      "quantityPerUnit": "50 adet",
+      "unitPrice": "250",
+      "unitsInStock": 25
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "productName": "Kalıp Bağlantı Elemanı",
+      "quantityPerUnit": "200 adet",
+      "unitPrice": "100",
+      "unitsInStock": 200
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "productName": "Döşeme Kalıbı",
+      "quantityPerUnit": "10 adet",
+      "unitPrice": "400",
+      "unitsInStock": 15
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "productName": "Kolon Kalıbı",
+      "quantityPerUnit": "8 adet",
+      "unitPrice": "350",
+      "unitsInStock": 18
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "productName": "Kiriş Kalıbı",
+      "quantityPerUnit": "12 adet",
+      "unitPrice": "320",
+      "unitsInStock": 22
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "productName": "Merdiven Kalıbı",
+      "quantityPerUnit": "6 adet",
+      "unitPrice": "280",
+      "unitsInStock": 16
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "productName": "Panel Kalıbı",
+      "quantityPerUnit": "30 adet",
+      "unitPrice": "500",
+      "unitsInStock": 35
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "productName": "Cephe Kalıbı",
+      "quantityPerUnit": "20 m2",
+      "unitPrice": "450",
+      "unitsInStock": 28
+    },
+    {
+      "id": 15,
+      "categoryId": 1,
+      "productName": "Kenar Kalıbı",
+      "quantityPerUnit": "40 adet",
+      "unitPrice": "370",
+      "unitsInStock": 12
+    },
+    {
+      "id": 16,
+      "categoryId": 1,
+      "productName": "Çatı Kalıbı",
+      "quantityPerUnit": "25 m2",
+      "unitPrice": "600",
+      "unitsInStock": 10
+    },
+    {
+      "id": 17,
+      "categoryId": 1,
+      "productName": "Duvar Kalıbı",
+      "quantityPerUnit": "15 adet",
+      "unitPrice": "330",
+      "unitsInStock": 24
+    },
+    {
+      "id": 18,
+      "categoryId": 1,
+      "productName": "Zemin Kalıbı",
+      "quantityPerUnit": "10 m2",
+      "unitPrice": "220",
+      "unitsInStock": 18
+    },
+    {
+      "id": 19,
+      "categoryId": 1,
+      "productName": "Kalıp Ayağı",
+      "quantityPerUnit": "50 adet",
+      "unitPrice": "150",
+      "unitsInStock": 20
+    },
+    {
+      "id": 20,
+      "categoryId": 1,
+      "productName": "Kalıp Elemanı",
+      "quantityPerUnit": "100 adet",
+      "unitPrice": "100",
+      "unitsInStock": 30
+    },
+    {
+      "id": 21,
+      "categoryId": 1,
+      "productName": "Kalıp Levhası",
+      "quantityPerUnit": "20 adet",
+      "unitPrice": "200",
+      "unitsInStock": 40
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "productName": "Kalıp Kilidi",
+      "quantityPerUnit": "200 adet",
+      "unitPrice": "50",
+      "unitsInStock": 100
+    },
+    {
+      "id": 23,
+      "categoryId": 1,
+      "productName": "Bağlantı Çubuğu",
+      "quantityPerUnit": "150 adet",
+      "unitPrice": "80",
+      "unitsInStock": 120
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Kalıp Çıtası",
+      "quantityPerUnit": "300 adet",
+      "unitPrice": "100",
+      "unitsInStock": 90
+    },
+    {
+      "id": 25,
+      "categoryId": 1,
+      "productName": "Ayarlı Kalıp Ayağı",
+      "quantityPerUnit": "50 adet",
+      "unitPrice": "130",
+      "unitsInStock": 25
+    },
+    {
+      "id": 26,
+      "categoryId": 1,
+      "productName": "Kalıp Paneli",
+      "quantityPerUnit": "20 m2",
+      "unitPrice": "250",
+      "unitsInStock": 35
+    },
+    {
+      "id": 27,
+      "categoryId": 1,
+      "productName": "Kalıp Şakülü",
+      "quantityPerUnit": "100 adet",
+      "unitPrice": "90",
+      "unitsInStock": 45
+    },
+    {
+      "id": 28,
+      "categoryId": 1,
+      "productName": "Kalıp Iskeleti",
+      "quantityPerUnit": "10 adet",
+      "unitPrice": "400",
+      "unitsInStock": 20
+    },
+    {
+      "id": 29,
+      "categoryId": 1,
+      "productName": "Kalıp Kancası",
+      "quantityPerUnit": "150 adet",
+      "unitPrice": "60",
+      "unitsInStock": 110
+    },
+    {
+      "id": 30,
+      "categoryId": 1,
+      "productName": "Kalıp Şasesi",
+      "quantityPerUnit": "20 adet",
+      "unitPrice": "350",
+      "unitsInStock": 15
+    },
+    {
+      "id": 31,
+      "categoryId": 1,
+      "productName": "Kalıp Dikmesi",
+      "quantityPerUnit": "30 adet",
+      "unitPrice": "100",
+      "unitsInStock": 50
+    },
+    {
+      "id": 32,
+      "categoryId": 1,
+      "productName": "Kalıp Çekici",
+      "quantityPerUnit": "10 adet",
+      "unitPrice": "150",
+      "unitsInStock": 25
+    },
+    {
+      "id": 33,
+      "categoryId": 1,
+      "productName": "Kalıp Süpürgesi",
+      "quantityPerUnit": "50 adet",
+      "unitPrice": "40",
+      "unitsInStock": 70
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "productName": "Kalıp Destek Ayağı",
+      "quantityPerUnit": "40 adet",
+      "unitPrice": "300",
+      "unitsInStock": 20
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "productName": "Kalıp Bağlantı Kolu",
+      "quantityPerUnit": "200 adet",
+      "unitPrice": "70",
+      "unitsInStock": 100
+    },
+    {
+      "id": 36,
+      "categoryId": 1,
+      "productName": "Kalıp Somunu",
+      "quantityPerUnit": "500 adet",
+      "unitPrice": "30",
+      "unitsInStock": 300
+    },
+    {
+      "id": 37,
+      "categoryId": 1,
+      "productName": "Kalıp Vida",
+      "quantityPerUnit": "1000 adet",
+      "unitPrice": "20",
+      "unitsInStock": 500
+    },
+    {
+      "id": 38,
+      "categoryId": 1,
+      "productName": "Kalıp Cıvata",
+      "quantityPerUnit": "800 adet",
+      "unitPrice": "40",
+      "unitsInStock": 400
+    },
+    {
+      "id": 39,
+      "categoryId": 1,
+      "productName": "Kalıp Levha Bağlantı Elemanı",
+      "quantityPerUnit": "100 adet",
+      "unitPrice": "60",
+      "unitsInStock": 150
+    },
+    {
+      "id": 40,
+      "categoryId": 1,
+      "productName": "Kalıp Ayak Bağlantısı",
+      "quantityPerUnit": "200 adet",
+      "unitPrice": "90",
+      "unitsInStock": 120
+    },
+    {
+      "id": 41,
+      "categoryId": 1,
+      "productName": "Kalıp Ara Parçası",
+      "quantityPerUnit": "150 adet",
+      "unitPrice": "110",
+      "unitsInStock": 130
+    },
+    {
+      "id": 42,
+      "categoryId": 1,
+      "productName": "Kalıp Dübeli",
+      "quantityPerUnit": "1000 adet",
+      "unitPrice": "10",
+      "unitsInStock": 600
+    },
+    {
+      "id": 43,
+      "categoryId": 1,
+      "productName": "Kalıp Sabitleyici",
+      "quantityPerUnit": "50 adet",
+      "unitPrice": "250",
+      "unitsInStock": 40
+    },
+    {
+      "id": 44,
+      "categoryId": 1,
+      "productName": "Kalıp Taşıma Kolu",
+      "quantityPerUnit": "200 adet",
+      "unitPrice": "150",
+      "unitsInStock": 50
+    },
+    {
+      "id": 45,
+      "categoryId": 1,
+      "productName": "Kalıp Yan Koruma",
+      "quantityPerUnit": "30 adet",
+      "unitPrice": "120",
+      "unitsInStock": 30
+    },
+    {
+      "id": 46,
+      "categoryId": 1,
+      "productName": "Kalıp Kenar Elemanı",
+      "quantityPerUnit": "40 adet",
+      "unitPrice": "170",
+      "unitsInStock": 45
+    },
+    {
+      "id": 47,
+      "categoryId": 1,
+      "productName": "Kalıp Uzatma Parçası",
+      "quantityPerUnit": "80 adet",
+      "unitPrice": "100",
+      "unitsInStock": 60
+    },
+    {
+      "id": 48,
+      "categoryId": 1,
+      "productName": "Kalıp Altlığı",
+      "quantityPerUnit": "20 adet",
+      "unitPrice": "200",
+      "unitsInStock": 35
+    },
+    {
+      "id": 49,
+      "categoryId": 1,
+      "productName": "Kalıp Destek Direği",
+      "quantityPerUnit": "10 adet",
+      "unitPrice": "300",
+      "unitsInStock": 20
+    },
+    {
+      "id": 50,
+      "categoryId": 1,
+      "productName": "Kalıp Üst Bağlantı Parçası",
+      "quantityPerUnit": "30 adet",
+      "unitPrice": "250",
+      "unitsInStock": 40
+    }
+  ]
+  
+  ,
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections",
+      "seoUrl": "confections"
+    },
+    {
+      "id": 4,
+      "categoryName": "Dairy Products",
+      "seoUrl": "dairy-products"
+    },
+    {
+      "id": 5,
+      "categoryName": "Grains/Cereals",
+      "seoUrl": "grains-cereals"
+    },
+    {
+      "id": 6,
+      "categoryName": "Meat/Poultry",
+      "seoUrl": "meat-poultry"
+    },
+    {
+      "id": 7,
+      "categoryName": "Produce",
+      "seoUrl": "produce"
+    },
+    {
+      "id": 8,
+      "categoryName": "Seafood",
+      "seoUrl": "seafood"
+    }
+  ]
+}
